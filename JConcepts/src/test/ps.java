@@ -17,5 +17,9 @@ public class ps {
 	public void forGitX() {
 		System.out.println("forGitX1");
 		System.out.println("forGitX2");
+		
+		System.out.println("forGitDemo1");
+		System.out.println("forGitDemo2");
+		System.out.println("forGitDemo3");
 	}
 }
