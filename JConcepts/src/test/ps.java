@@ -13,4 +13,9 @@ public class ps {
 	public void BeforeRun() {
 		System.out.println("ps - BeforeMethod");
 	}
+	
+	public void forGitX() {
+		System.out.println("forGitX1");
+		System.out.println("forGitX2");
+	}
 }
